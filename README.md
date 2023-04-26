@@ -12,4 +12,5 @@ Assuming, I am the data analyst in the supply chain team who joined the Mart rec
 
 Create the metrics according to the metrics list. Create a dashboard according to the requirements provided by stakeholders in the business review meeting. I have been provided with the transcript of this business review meeting in the form of a rough sketch of what the actual dashboard should look like. I have to create relevant insights that are not provided in the metric list/stakeholder meeting.
 
-The dashboard
+The dashboard is thus created to show insights to the stakeholders is:
+https://user-images.githubusercontent.com/62851341/234496948-55e115c5-7dff-44ee-97f6-b593198b9579.mp4
